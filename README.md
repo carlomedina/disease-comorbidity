@@ -5,4 +5,4 @@ Phenotypes (Hidalgo, Blumm, Laszlo, Barabasi, & Christakis, 2009) using R
 
 A work in progress.
 
-## R file: disease-comorbidity.R
+#### R file: disease-comorbidity.R
