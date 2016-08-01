@@ -4,3 +4,5 @@ Replication of some of the graphs found in the paper A Dynamic Network Approach 
 Phenotypes (Hidalgo, Blumm, Laszlo, Barabasi, & Christakis, 2009) using R
 
 A work in progress.
+
+## R file: disease-comorbidity.R
